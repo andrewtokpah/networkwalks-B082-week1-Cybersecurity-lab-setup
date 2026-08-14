@@ -140,3 +140,7 @@ After manually configuring the IPv4 settings, I encountered issues with Internet
 One workaround implemented during this lab was:
 
 sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
+<img width="1920" height="1080" alt="Solve it" src="https://github.com/user-attachments/assets/9f2fe467-335d-43b5-b64e-de4214c6b3ee" />
+
+
+
