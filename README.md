@@ -90,7 +90,10 @@ The Kali Linux network configuration was checked and configured with a consisten
 
 Example configuration: 
 
-IP Address: 10.0.0.2
-Subnet Mask: 255.255.255.0
-Gateway: 10.0.0.1
-DNS: 8.8.8.8
+| **Network Configuration** | **Value**       |
+| ------------------------- | --------------- |
+| **IP Address**            | `10.0.0.2`      |
+| **Subnet Mask**           | `255.255.255.0` |
+| **Default Gateway**       | `10.0.0.1`      |
+| **DNS Server**            | `8.8.8.8`       |
+
