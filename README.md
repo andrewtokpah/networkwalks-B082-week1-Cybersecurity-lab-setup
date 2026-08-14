@@ -151,7 +151,7 @@ The network connection was subsequently restarted, and connectivity was tested o
 
 Through this project, I gained practical experience in setting up and configuring a virtual environment for cybersecurity training and hands-on practice.
 
-The key concepts I learned include:
+**The key concepts I learned include:**
 
 1. **NAT vs. NAT Network**
    I learned the difference between standard NAT and NAT Network configurations. A NAT Network enables multiple virtual machines to communicate with each other while also providing internet access through network address translation. This makes it especially useful for creating a multi-machine cybersecurity lab.
@@ -167,6 +167,10 @@ The key concepts I learned include:
 
 5. **Technical Documentation**
    I learned that proper documentation is an essential part of professional cybersecurity work. Recording commands, configurations, screenshots, challenges, and solutions makes projects easier to understand, troubleshoot, reproduce, and improve.
+
+🛡️ **Security & Ethical Use**
+
+This laboratory is designed exclusively for **educational, authorized, and ethical cybersecurity training**. All activities should be performed responsibly and only within systems you own or have explicit permission to test.
 
 
 
