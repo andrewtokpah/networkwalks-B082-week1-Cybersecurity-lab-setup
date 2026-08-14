@@ -29,6 +29,7 @@ Prepare the environment for future cybersecurity projects.
 The virtual network is scalable, allowing additional target machines to be added for future testing and security assessments.
 
 ⚙️ Lab Configuration
+
 | 🧩 Component           | ⚙️ Configuration       |
 | ---------------------- | ---------------------- |
 | 🖥️ **Host OS**        | Windows 11             |
