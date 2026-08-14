@@ -105,3 +105,5 @@ After completing the initial configuration, a VirtualBox snapshot was created.
 Example snapshot name:
 
 Clean Kali - Network Setup
+
+The snapshot serves as the clean baseline for the laboratory environment. If a future exercise modifies, misconfigures, or damages the VM, it can be restored to this baseline to return the system to its original working state.
