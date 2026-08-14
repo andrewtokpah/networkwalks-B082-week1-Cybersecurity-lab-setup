@@ -28,3 +28,17 @@ Prepare the environment for future cybersecurity projects.
 <img width="1346" height="616" alt="1-screenshot-title-image" src="https://github.com/user-attachments/assets/cb7a8f8b-c93d-46f8-a6ca-76db51bda091" />
 The virtual network is scalable, allowing additional target machines to be added for future testing and security assessments.
 
+| 🧩 Component           | ⚙️ Configuration       |
+| ---------------------- | ---------------------- |
+| 🖥️ **Host OS**        | Windows 11             |
+| 🧠 **Host RAM**        | 8 GB                   |
+| ⚡ **Processor**        | Intel Core i5          |
+| 🧰 **Hypervisor**      | VirtualBox 7.2         |
+| 🐉 **Security OS**     | Kali Linux 2026.2      |
+| 🧠 **Kali RAM**        | 2048 MB                |
+| 🌐 **Virtual Network** | NAT Network            |
+| 📡 **Network Address** | `10.0.0.0/24`          |
+| 🐧 **Kali IP Address** | `10.0.0.2/24`          |
+| 🚪 **Default Gateway** | `10.0.0.1`             |
+| 🌍 **DNS Server**      | `8.8.8.8`              |
+| 🔮 **Future VM Range** | `10.0.0.3 – 10.0.0.99` |
