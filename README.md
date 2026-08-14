@@ -147,4 +147,26 @@ The network connection was subsequently restarted, and connectivity was tested o
 
 ## Important: Network interface and connection names can vary across systems. Before executing any nmcli command, students should first identify the correct connection name on their system.
 
+## 💡 What I Learned
+
+Through this project, I gained practical experience in setting up and configuring a virtual environment for cybersecurity training and hands-on practice.
+
+The key concepts I learned include:
+
+1. **NAT vs. NAT Network**
+   I learned the difference between standard NAT and NAT Network configurations. A NAT Network enables multiple virtual machines to communicate with each other while also providing internet access through network address translation. This makes it especially useful for creating a multi-machine cybersecurity lab.
+
+2. **Virtual Machine Networking**
+   I developed a better understanding of how VirtualBox network adapters connect virtual machines to different network environments and how these configurations influence communication between systems.
+
+3. **Static IP Configuration**
+   I learned how to configure and verify IPv4 addresses, subnet masks, default gateways, and DNS settings in Kali Linux to ensure proper network communication.
+
+4. **Virtual Machine Snapshots**
+   I learned the importance of creating a clean snapshot before conducting risky or experimental cybersecurity activities. A snapshot provides a reliable recovery point that can be restored when needed.
+
+5. **Technical Documentation**
+   I learned that proper documentation is an essential part of professional cybersecurity work. Recording commands, configurations, screenshots, challenges, and solutions makes projects easier to understand, troubleshoot, reproduce, and improve.
+
+
 
