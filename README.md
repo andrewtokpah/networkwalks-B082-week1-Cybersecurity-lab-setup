@@ -80,5 +80,8 @@ Network:     NatNetwork
 Adapter Type: Intel PRO/1000 MT Desktop
 
 The VM was allocated:
+
 ![Uploading 3-screenshot-kali-linux.png…]()
+A shared folder was configured to enable seamless file transfer between the host operating system and the Kali Linux virtual machine.
+
 
