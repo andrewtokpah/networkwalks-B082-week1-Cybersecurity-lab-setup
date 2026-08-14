@@ -69,6 +69,7 @@ This setup provides a suitable environment for future attacker and target virtua
 Step 4. Import Kali Linux
 The Kali Linux virtual machine was downloaded from the official Kali Linux website and imported into VirtualBox.
 
+
 The VM network adapter was configured as follows:
 
 Adapter 1
