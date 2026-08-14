@@ -1,6 +1,5 @@
-<img width="1920" height="1080" alt="Problem 1" src="https://github.com/user-attachments/assets/0aeddae6-9ff2-4190-812a-ebdaa24b97ad" />
 # networkwalks-B082-week1-Cybersecurity-lab-setup
-#🔐 My First Cybersecurity &amp; Ethical Hacking Lab Environment Setup
+# 🔐 My First Cybersecurity &amp; Ethical Hacking Lab Environment Setup
 
 ## 📌 Project Overview
 Purpose of the Cybersecurity Lab
