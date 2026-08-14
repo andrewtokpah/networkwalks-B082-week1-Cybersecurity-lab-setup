@@ -108,12 +108,14 @@ Clean Kali - Network Setup
 
 The snapshot serves as the clean baseline for the laboratory environment. If a future exercise modifies, misconfigures, or damages the VM, it can be restored to this baseline to return the system to its original working state.
 
-| **✅ Test**                        | **🧾 Command**                | **🎯 Expected Result**                                  |
-| --------------------------------- | ----------------------------- | ------------------------------------------------------- |
-| 🌐 **Check IP Address**           | `ip a`                        | Correct Kali Linux IP address is displayed              |
-| 📡 **Test Gateway Connectivity**  | `ping 10.0.0.1`               | Successful replies are received from the gateway        |
-| 🌍 **Test Internet Connectivity** | `ping 8.8.8.8`                | Successful replies confirm Internet connectivity        |
-| 🔎 **Test DNS Resolution**        | `nslookup networkwalks.com`   | The domain name resolves successfully                   |
-| 🧰 **Verify Nmap Installation**   | `nmap --version`              | Installed Nmap version is displayed                     |
-| 🔄 **Verify Snapshot Recovery**   | Restore snapshot → run `ip a` | Baseline network configuration is restored successfully |
+ | **🔧 Verification Test**          | **⌨️ Command / Action**               | **📌 Expected Result**                              |
+| --------------------------------- | ------------------------------------- | --------------------------------------------------- |
+| 🖥️ **Check IP Address**          | `ip a`                                | Correct Kali Linux IP address is displayed          |
+| 🔗 **Test Gateway Connectivity**  | `ping 10.0.0.1`                       | Successful replies are received from the gateway    |
+| 🌐 **Test Internet Connectivity** | `ping 8.8.8.8`                        | Successful replies confirm Internet connectivity    |
+| 🧭 **Test DNS Resolution**        | `nslookup networkwalks.com`           | The domain name resolves successfully               |
+| 🛠️ **Verify Nmap Installation**  | `nmap --version`                      | Installed Nmap version is displayed                 |
+| 💾 **Verify Snapshot Recovery**   | Restore the snapshot, then run `ip a` | Original baseline network configuration is restored |
 
+
+## Example Results
