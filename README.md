@@ -89,3 +89,8 @@ A shared folder was configured to enable seamless file transfer between the host
 The Kali Linux network configuration was checked and configured with a consistent IPv4 address.
 
 Example configuration: 
+
+IP Address: 10.0.0.2
+Subnet Mask: 255.255.255.0
+Gateway: 10.0.0.1
+DNS: 8.8.8.8
