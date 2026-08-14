@@ -137,8 +137,6 @@ Documenting technical challenges and their solutions is an important part of the
 <img width="1920" height="1080" alt="Problem 1" src="https://github.com/user-attachments/assets/00987795-c01a-46aa-827f-acba3da37b41" />
 After manually configuring the IPv4 settings, I encountered issues with Internet connectivity. Firefox was unable to access websites, although the behavior may vary depending on the Kali Linux and NetworkManager configuration.
 
-
 One workaround implemented during this lab was:
 
 sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
-
