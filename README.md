@@ -183,6 +183,14 @@ Cybersecurity Professional B082
 
 LinkedIn: https://www.linkedin.com/in/andrew-maneply-tokpah-692243429/
 
+# Cybersecurity & Pentesting Lab Setup
+
+**Program:** Cybersecurity at Networkwalks
+**Week:** 01
+**Project:** Cybersecurity & Pentesting Lab Setup
+**Repository:** GitHub
+
+
 
 
 
