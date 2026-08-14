@@ -168,7 +168,7 @@ Through this project, I gained practical experience in setting up and configurin
 5. **Technical Documentation**
    I learned that proper documentation is an essential part of professional cybersecurity work. Recording commands, configurations, screenshots, challenges, and solutions makes projects easier to understand, troubleshoot, reproduce, and improve.
 
-🛡️ ## Security & Ethical Use
+## 🛡️Security & Ethical Use
 
 This laboratory is designed exclusively for **educational, authorized, and ethical cybersecurity training**. All activities should be performed responsibly and only within systems you own or have explicit permission to test.
 
