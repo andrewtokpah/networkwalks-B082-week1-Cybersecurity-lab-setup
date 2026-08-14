@@ -119,3 +119,11 @@ The snapshot serves as the clean baseline for the laboratory environment. If a f
 
 
 ## Example Results
+
+| Setting             | Value           |
+| ------------------- | --------------- |
+| **IP Address**      | `10.0.0.2/24`   |
+| **Subnet Mask**     | `255.255.255.0` |
+| **Default Gateway** | `10.0.0.1`      |
+| **DNS Server**      | `8.8.8.8`       |
+
