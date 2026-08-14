@@ -24,3 +24,5 @@ Prepare the environment for future cybersecurity projects.
 🛡️ Responsible Use: This cybersecurity lab is designed exclusively for learning, experimentation, and authorized security testing. Always obtain proper permission before testing any system, network, or application. Do not use the tools in this lab against unauthorized targets.
 
 🖥️ Lab Architecture
+<img width="1346" height="616" alt="1-screenshot-title-image" src="https://github.com/user-attachments/assets/cb7a8f8b-c93d-46f8-a6ca-76db51bda091" />
+
