@@ -66,3 +66,12 @@ A NAT Network was chosen to enable multiple virtual machines to communicate with
 
 This setup provides a suitable environment for future attacker and target virtual machines to interact and communicate during cybersecurity lab exercises.
  
+Step 4. Import Kali Linux
+The Kali Linux virtual machine was downloaded from the official Kali Linux website and imported into VirtualBox.
+
+The VM network adapter was configured as follows:
+
+Adapter 1
+Attached to: NAT Network
+Network:     NatNetwork
+Adapter Type: Intel PRO/1000 MT Desktop
