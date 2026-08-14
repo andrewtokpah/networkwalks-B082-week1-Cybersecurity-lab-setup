@@ -1,8 +1,8 @@
 <img width="1920" height="1080" alt="Problem 1" src="https://github.com/user-attachments/assets/0aeddae6-9ff2-4190-812a-ebdaa24b97ad" />
 # networkwalks-B082-week1-Cybersecurity-lab-setup
-🔐 My First Cybersecurity &amp; Ethical Hacking Lab Environment Setup
+#🔐 My First Cybersecurity &amp; Ethical Hacking Lab Environment Setup
 
-📌 Project Overview
+## 📌 Project Overview
 Purpose of the Cybersecurity Lab
 
 The primary purpose of this lab is to establish a secure and controlled environment for practicing cybersecurity techniques. It provides a safe space to work with security tools and perform activities such as network scanning, reconnaissance, vulnerability assessment, penetration testing, and other security-testing exercises without affecting real-world systems.
@@ -24,7 +24,7 @@ Prepare the environment for future cybersecurity projects.
 
 🛡️ Responsible Use: This cybersecurity lab is designed exclusively for learning, experimentation, and authorized security testing. Always obtain proper permission before testing any system, network, or application. Do not use the tools in this lab against unauthorized targets.
 
-🖥️ Lab Architecture
+# 🖥️ Lab Architecture
 
 <img width="1346" height="616" alt="1-screenshot-title-image" src="https://github.com/user-attachments/assets/cb7a8f8b-c93d-46f8-a6ca-76db51bda091" />
 The virtual network is scalable, allowing additional target machines to be added for future testing and security assessments.
