@@ -100,6 +100,8 @@ Example configuration:
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
+<img width="1920" height="1080" alt="new" src="https://github.com/user-attachments/assets/08b7d37c-6e81-4d27-8eb8-2bd909a3bcc2" />
+
 ## Step 6. Create a Clean VM Snapshot
 After completing the initial configuration, a VirtualBox snapshot was created.
 
