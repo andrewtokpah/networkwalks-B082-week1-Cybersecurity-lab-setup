@@ -62,5 +62,7 @@ A dedicated NAT Network was created in VirtualBox.
 
 Configuration: Network Name: NatNetwork IPv4 Prefix: 10.0.0.0/24 DHCP: Enabled IPv6: Disabled
 <img width="1918" height="1080" alt="Network " src="https://github.com/user-attachments/assets/f691c305-fb7d-432a-846e-71f2139194e0" />
+A NAT Network was chosen to enable multiple virtual machines to communicate with each other within the same isolated network while still maintaining outbound internet connectivity.
 
+This setup provides a suitable environment for future attacker and target virtual machines to interact and communicate during cybersecurity lab exercises.
  
