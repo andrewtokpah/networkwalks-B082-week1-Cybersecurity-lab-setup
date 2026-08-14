@@ -173,9 +173,9 @@ Through this project, I gained practical experience in setting up and configurin
 This laboratory is designed exclusively for **educational, authorized, and ethical cybersecurity training**. All activities should be performed responsibly and only within systems you own or have explicit permission to test.
 
 ## 🔗 Tools & Resources
-7-Zip: https://7-zip.org/download.html
-VirtualBox: https://virtualbox.org/wiki/Downloads
-Kali Linux: https://kali.org/get-kali
+<7-Zip: https://7-zip.org/download.html>
+<VirtualBox: https://virtualbox.org/wiki/Downloads>
+<Kali Linux: https://kali.org/get-kali>
 
 ## 👤 Author
 Andrew Maneply Tokpah 
@@ -185,10 +185,15 @@ LinkedIn: https://www.linkedin.com/in/andrew-maneply-tokpah-692243429/
 
 # Cybersecurity & Pentesting Lab Setup
 
-**Program:** Cybersecurity at Networkwalks
-**Week:** 01
-**Project:** Cybersecurity & Pentesting Lab Setup
-**Repository:** GitHub
+| **Project Details** | **Information**                                                                                     |
+| ------------------- | --------------------------------------------------------------------------------------------------- |
+| 🛡️ **Program**     | **Cybersecurity at Networkwalks**                                                                   |
+| 📅 **Week**         | **Week 01**                                                                                         |
+| 🧪 **Project**      | **Cybersecurity & Penetration Testing Lab Setup**                                                   |
+| 💻 **Focus Area**   | **Cybersecurity Lab Environment & Pentesting Preparation**                                          |
+| 📂 **Repository**   | **GitHub**                                                                                          |
+| 🎯 **Project Goal** | Build and configure a secure practical environment for cybersecurity and ethical hacking exercises. |
+
 
 
 
