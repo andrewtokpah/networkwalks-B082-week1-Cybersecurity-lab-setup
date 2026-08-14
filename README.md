@@ -85,11 +85,7 @@ The VM was allocated:
  
 A shared folder was configured to enable seamless file transfer between the host operating system and the Kali Linux virtual machine.
 
-## Step 5. Configure the Kali Linux Network
+Step 5. Configure the Kali Linux Network
 The Kali Linux network configuration was checked and configured with a consistent IPv4 address.
 
-Example configuration:
-IP Address: 10.0.0.2
-Subnet Mask: 255.255.255.0
-Gateway: 10.0.0.1
-DNS: 8.8.8.8
+Example configuration: 
