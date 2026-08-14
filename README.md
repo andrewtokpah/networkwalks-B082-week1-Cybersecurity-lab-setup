@@ -173,9 +173,7 @@ Through this project, I gained practical experience in setting up and configurin
 This laboratory is designed exclusively for **educational, authorized, and ethical cybersecurity training**. All activities should be performed responsibly and only within systems you own or have explicit permission to test.
 
 ## 🔗 Tools & Resources
-<7-Zip: https://7-zip.org/download.html>
-<VirtualBox: https://virtualbox.org/wiki/Downloads>
-<Kali Linux: https://kali.org/get-kali>
+
 
 ## 👤 Author
 Andrew Maneply Tokpah 
@@ -183,7 +181,13 @@ Cybersecurity Professional B082
 
 LinkedIn: https://www.linkedin.com/in/andrew-maneply-tokpah-692243429/
 
-# Cybersecurity & Pentesting Lab Setup
+* 7-Zip — File compression and extraction tool
+https://7-zip.org/download.html
+* VirtualBox — Virtualization software for running virtual machines
+https://virtualbox.org/wiki/Downloads
+* Kali Linux — Linux distribution for cybersecurity and ethical hacking labs
+https://kali.org/get-kali
+#📌 Cybersecurity & Pentesting Lab Setup
 
 | **Project Details** | **Information**                                                                                     |
 | ------------------- | --------------------------------------------------------------------------------------------------- |
