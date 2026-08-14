@@ -127,3 +127,9 @@ The snapshot serves as the clean baseline for the laboratory environment. If a f
 | **Default Gateway** | `10.0.0.1`      |
 | **DNS Server**      | `8.8.8.8`       |
 
+# 🐞Network Connectivity Issue After Static IP Configuration
+
+Documenting technical challenges and their solutions is an important part of the project.
+
+## Issue 1: Loss of Internet Connectivity After Configuring a Static IP
+
