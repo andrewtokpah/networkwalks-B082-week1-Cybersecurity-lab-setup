@@ -45,3 +45,11 @@ The virtual network is scalable, allowing additional target machines to be added
 | 🚪 **Default Gateway** | `10.0.0.1`             |
 | 🌍 **DNS Server**      | `8.8.8.8`              |
 | 🔮 **Future VM Range** | `10.0.0.3 – 10.0.0.99` |
+
+### 🛠️ Lab Setup Procedure
+
+**Step 1: Install 7-Zip**
+
+📦 **7-Zip** was installed to extract the Kali Linux virtual machine package, which may be provided in a compressed **`.7z` archive** format.
+
+**Tool Used:** 7-Zip 🔧
