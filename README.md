@@ -97,3 +97,4 @@ Example configuration:
 | **Default Gateway**       | `10.0.0.1`      |
 | **DNS Server**            | `8.8.8.8`       |
 
+A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
