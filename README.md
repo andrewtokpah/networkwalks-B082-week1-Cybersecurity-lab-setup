@@ -53,3 +53,6 @@ The virtual network is scalable, allowing additional target machines to be added
 📦 **7-Zip** was installed to extract the Kali Linux virtual machine package, which may be provided in a compressed **`.7z` archive** format.
 
 **Tool Used:** 7-Zip 🔧
+
+Step 2. Install VirtualBox
+VirtualBox was installed as the hypervisor.
