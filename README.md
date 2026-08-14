@@ -61,5 +61,6 @@ VirtualBox was installed as the hypervisor.
 A dedicated NAT Network was created in VirtualBox.
 
 Configuration: Network Name: NatNetwork IPv4 Prefix: 10.0.0.0/24 DHCP: Enabled IPv6: Disabled
- <img width="1918" height="1080" alt="Network " src="https://github.com/user-attachments/assets/b3dc5c31-1ec8-4e57-a00c-133c34c8d399" />
+<img width="1918" height="1080" alt="Network " src="https://github.com/user-attachments/assets/f691c305-fb7d-432a-846e-71f2139194e0" />
 
+ 
